@@ -37,6 +37,17 @@
 * Based on the awesome third-party [libraries](doc/dependencies.md)
 
 
+## Screenshots
+
+![login](client/assets/1-login.png)
+![gaia-overview](client/assets/2-gaia-overview.png)
+![gaia-create-pipeline](client/assets/3-gaia-create-pipeline.png)
+![gaia-create-pipeline-history](client/assets/4-gaia-create-pipeline-history.png)
+![gaia-pipeline-details](client/assets/5-gaia-pipeline-details.png)
+![gaia-pipeline-logs](client/assets/6-gaia-pipeline-logs.png)
+![gaia-settings](client/assets/7-gaia-settings.png)
+
+
 ## [Backers](backers.md)
 
 Its ongoing development is made possible thanks to the support by these awesome backers. If you'd like to join them, check out:
